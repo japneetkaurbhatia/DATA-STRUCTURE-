@@ -30,7 +30,7 @@ void test2(int *arr, int n)
     }
 }
 
-void inputForStack(int n)
+void inputForStack(int n)  //input n elents in stack memo
 {
     int arr[n] = {0};
     for (int i = 0; i < n; i++)
@@ -43,9 +43,9 @@ void inputForStack(int n)
 void test1()
 {
     int n;
-    cin >> n;
+    cin >> n; //input size
 
-    int *a = new int(10);
+    int *a = new int(10);  //created n side array
     // int arr[n] = {0};
     // test2(arr, n);
 

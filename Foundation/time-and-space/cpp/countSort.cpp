@@ -42,3 +42,4 @@ int main(){
     print(A);
     return 0;
 }
+// time complexity : O((max-min)+n)

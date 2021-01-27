@@ -7,7 +7,7 @@ void input(vector<int>& arr){
         cin>>arr[i];
     }
 }
-int closestElement(vector<int>& arr,int data, int si,int ei){
+int BinarySearch(vector<int>& arr,int data, int si,int ei){
     while(si<=ei){
         int mid = (si+ei)/2;
         if(arr[mid]==data) return mid;
@@ -21,6 +21,6 @@ int main(){
     vector<int> A(n,0);
     input(A);
     int data; cin>>data;
-    cout<<closestElement(A,data,0,n-1);
+    cout<<BinarySearch(A,data,0,n-1);
     return 0;
 }

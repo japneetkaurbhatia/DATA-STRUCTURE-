@@ -4,18 +4,15 @@ using namespace std;
 void print(int row) {
     int nst = row;
     int nsp = 0;
-    for (int r = 0; r < row; r++) {
-        for (int csp = 0; csp < nsp; csp++) {
+    for (int i = 0; i < row; i++) {
+        for (int j = 0; j < nsp; j++) {
             cout << ("\t");
         }
-        for (int cst = 0; cst < nst; cst++) {
+        for (int j = 0; j < nst; j++) {
             cout << ("*\t");
         }
-        for (int csp = 0; csp < nsp; csp++) {
-            cout << ("\t");
-        }
         cout << endl;
-        if(r<(row/2))
+        if(i<(row/2))
         {
             nsp++;
             nst -= 2;

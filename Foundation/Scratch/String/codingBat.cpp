@@ -1,11 +1,12 @@
-// ques : Given a string, if one or both of the first 2 chars is 'x', return the string without those 'x' chars, and otherwise return the string unchanged.
-//        This is a little harder than it looks.
-// link : https://github.com/japneetbhatia/DATA-STRUCTURE-/new/main/Foundation/Scratch/String 
+//ques : Given a string, if one or both of the first 2 chars is 'x', return the string without those 'x' chars, and otherwise return the string unchanged. 
+//       This is a little harder than it looks.
 
 
-withoutX2("xHi") → "Hi"
-withoutX2("Hxi") → "Hi"
-withoutX2("Hi") → "Hi"
+//withoutX2("xHi") → "Hi"
+//withoutX2("Hxi") → "Hi"
+//withoutX2("Hi") → "Hi"
+
+//link : https://codingbat.com/prob/p151359
 
 #include<iostream>
 using namespace std;

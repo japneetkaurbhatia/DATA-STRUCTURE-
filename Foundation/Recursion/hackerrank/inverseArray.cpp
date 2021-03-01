@@ -1,5 +1,4 @@
 //  https://www.hackerrank.com/contests/pepdec62017/challenges/pep-java-7recursion-13inversearray
-
 #include <cmath>
 #include <cstdio>
 #include <vector>

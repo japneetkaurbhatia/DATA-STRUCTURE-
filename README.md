@@ -5,5 +5,7 @@ This repository contains basic to advance level data structure and algorithm que
 3. Functions And Arrays
 4. 2D Arrays
 5. Strings  
-6. Linked List
-7. Trees
+6. Recursion
+7. Time and Space Complexity
+8. Linked List
+9. Trees

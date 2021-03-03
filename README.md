@@ -4,4 +4,6 @@ This repository contains basic to advance level data structure and algorithm que
 2. Pattern
 3. Functions And Arrays
 4. 2D Arrays
-5. Strings
+5. Strings  
+6. Linked List
+7. Trees

@@ -7,5 +7,6 @@ This repository contains basic to advance level data structure and algorithm que
 5. Strings  
 6. Recursion
 7. Time and Space Complexity
-8. Linked List
-9. Trees
+8. Sorting
+9. Linked List
+10. Trees

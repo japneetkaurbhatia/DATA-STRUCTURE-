@@ -10,3 +10,7 @@ This repository contains basic to advance level data structure and algorithm que
 8. Sorting
 9. Linked List
 10. Trees
+  10.1 BT
+  10.2 BST
+  10.3 GT
+11. Stack And Queues

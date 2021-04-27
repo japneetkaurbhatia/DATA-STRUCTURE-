@@ -1,0 +1,30 @@
+Pre : 5
+Pre : 4
+Pre : 3
+Pre : 2
+Base Case : 1
+In : 2
+Base Case : 0
+Post : 2
+In : 3
+Base Case : 1
+Post : 3
+In : 4
+Pre : 2
+Base Case : 1
+In : 2
+Base Case : 0
+Post : 2
+Post : 4
+In : 5
+Pre : 3
+Pre : 2
+Base Case : 1
+In : 2
+Base Case : 0
+Post : 2
+In : 3
+Base Case : 1
+Post : 3
+Post : 5
+26
